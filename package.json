@@ -1,0 +1,14 @@
+{
+  "name": "ivkin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isMatchWith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Ivkin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0"
+  }
+}
